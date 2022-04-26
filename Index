@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Italiano's - A melhor pizzaria da Zona Norte</title>
+	<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    <link href="css/style.css" rel="stylesheet" />
+    <style>
+           @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;1,800&display=swap');
+           @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+           @import url('https://fonts.googleapis.com/css2? family= Ramaraja & display=swap');
+
+    </style>
+</head>
+<body>
+<header>
+  <div id="logo">
+      <figure id="logoF">
+          <a href="index.html"><img src="Imagens/logo.png"></a>
+      </figure>
+   </div>
+     <nav id="menu-h">
+        <ul>
+           <li><strong><a href="index.html">HOME</a></li></strong>
+            <li><strong><a href="#AgrVai">ITALIANO'S</a></li></strong>
+            <li><strong><a href="Promoçoes.html">PROMOÇÕES</a></li></strong>
+            <li><strong><a href="Cardapio.html">CARDÁPIO</a></li></strong>
+            <li><strong><a href="Contato.html">CONTATO</a></li></strong>
+            </ul>
+		
+        <a href="https://www.instagram.com/crvg_kiqi/"><div class="box">
+            <div class="icon instagram">
+                <ion-icon name="logo-instagram"></ion-icon>
+            </div>
+		</div>
+		</a>
+		<a href="https://www.facebook.com/kaique.mateus.560"><div class="box2">
+            <div class="icon facebook">
+                <ion-icon name="logo-facebook"></ion-icon>
+            </div>
+        </div>
+	</a>
+     </nav>
+    </header>
+    
+    <div class="container" id="cont">
+    <div class="child">
+        <figure>
+           <a href="index.html"><img src="Imagens/FUNDO3.png"></a>
+        </figure>
+    </div> 
+	<section id="AgrVai">
+				<p id="p2">PIZZARIA ITALIANO'S</p>
+				<p id="p3">Há 24 anos no mercado, a Norte Grill é uma das maiores no segmento de churrascarias no Rio de Janeiro,
+						   considerada a melhor da Zona Norte no ano de 2017 pelo o Jornal O Globo | Extra.</p>
+				<p id="p3">Além de um ambiente aconchegante, nos destacamos pelo o diferencial na gastronomia,
+						   oferecendo um rodízio de pizzas e carnes com cortes nobres e selecionados e um buffet variado com pratos quentes,
+						   frios e comida italiana.</p>
+				<p id="p3">Com colaboradores capacitados e treinados, você cliente, comprova de um atendimento diferenciado, 
+						   permitindo uma incrível experiência gastronômica.</p>
+				<p id="p4"><strong>O nosso maior tempero é a sua satisfação!</strong></p>
+	</section>
+	<div id="cardp">
+			<div id="cardpp">
+				<h1 class="h1n">CARDÁPIO</h1>
+				<p id="p1n">Confira as opções de Pizzas,</p>
+				<p id="p1n">buffet, comida italiana e carnes do Italiano's</p>
+			</div>
+	</div>
+    <section id="divdiv">
+          <div id="div1">
+                 <img src="Imagens/div.jpg">
+          </div>
+			<div id="div2">
+			      <img src="Imagens/div2.jpg">
+			 </div>
+			    <div id="div3">
+			      <img src="Imagens/div3.jpg">
+			    </div>
+				<div id="div4">
+			      <img src="Imagens/div4.jpg">
+			    </div>
+    </section>
+    </div>
+    <hr>
+    
+    <div class="container" id="cont4"> 
+         <p>Rua Clarimundo de Melo, 104 - Ao Lado da Faetec</p>
+         <p>Quintino Bocaiúva - Rio de Janeiro</p>
+         <p><a href="tel:+5521981028708">Tel:(21)98102-8708 | (21) 2596-4050</p></a>
+          <p>Horário de Funcionamento:</p>
+          <p>Segunda à Sábado: 11:30h às 23h</p>
+          <p>Domingo: 11:30h às 22h</p>
+          <div id="cont5">
+              <img src="Imagens/PIZZAS.jpg">
+          </div>
+        </div>
+    <div id="rodape">
+        <img width="1600" height="208" src="https://nortegrill.com.br/wp-content/uploads/2019/08/footer-decalwrite.png" class="attachment-full size-full" alt="zona norte" loading="lazy" srcset="https://nortegrill.com.br/wp-content/uploads/2019/08/footer-decalwrite.png 1908w, https://nortegrill.com.br/wp-content/uploads/2019/08/footer-decalwrite-600x160.png 600w" sizes="(max-width: 1908px) 100vw, 1908px"> 
+       </div>
+    
+</body>
+</html>
